@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from "react"; 
 import { Heart, Music2, Play, Pause, ChevronDown, Camera, Sparkles, Clock3, Mail, Gift, X, Volume2, } from "lucide-react"; 
-import cover from "../assets/anniversary/month-00.jpg"; 
+import cover from "../assets/anniversary/month-09.jpg"; 
 import month01 from "../assets/anniversary/month-01.jpg"; 
 import month02 from "../assets/anniversary/month-02.jpg"; 
 import month03 from "../assets/anniversary/month-03.jpg"; 
